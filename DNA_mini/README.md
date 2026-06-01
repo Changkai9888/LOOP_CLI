@@ -17,7 +17,7 @@
 好的内核，不做能力的对称性破缺；从这个角度说，这个内核系统，已经开发完了。
 
 ## License
-MIT License
+Apache License 2.0
 ## Author
 Changkai Lee
 
